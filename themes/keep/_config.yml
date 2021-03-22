@@ -36,7 +36,7 @@ style:
 
   # First screen
   first_screen:
-    enable: 
+    enable: true
     background_img: /images/bg.svg   # You can use local image or image external link
     description: To have and to hold.
 
