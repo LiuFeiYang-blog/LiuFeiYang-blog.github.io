@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Phoneix's Blog
-subtitle: 'Future math master!'
+title: Phoenix's Blog
+subtitle: ''
 description: ''
 keywords:
-author: Phoneix
+author: Phoenix
 language: en
 timezone: 'Asia/Shanghai'
 
