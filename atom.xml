@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-23T13:30:49.861Z</updated>
+  <updated>2021-04-23T13:55:11.253Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://example.com/2021/04/23/hello-world/"/>
     <id>http://example.com/2021/04/23/hello-world/</id>
-    <published>2021-04-23T13:30:49.861Z</published>
-    <updated>2021-04-23T13:30:49.861Z</updated>
+    <published>2021-04-23T13:55:11.253Z</published>
+    <updated>2021-04-23T13:55:11.253Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>]]></content>
     
@@ -40,10 +40,10 @@
     <title></title>
     <link href="http://example.com/2021/04/23/%E7%AB%9E%E8%B5%9B%E5%A4%8D%E7%9B%98/"/>
     <id>http://example.com/2021/04/23/%E7%AB%9E%E8%B5%9B%E5%A4%8D%E7%9B%98/</id>
-    <published>2021-04-23T13:30:49.861Z</published>
-    <updated>2021-04-23T13:30:49.861Z</updated>
+    <published>2021-04-23T13:55:11.253Z</published>
+    <updated>2021-04-23T13:55:11.253Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="竞赛复盘-截止至4-14"><a href="#竞赛复盘-截止至4-14" class="headerlink" title="竞赛复盘(截止至4.14)"></a>竞赛复盘(截止至4.14)</h1><ul><li><h2 id="UKMT复盘"><a href="#UKMT复盘" class="headerlink" title="UKMT复盘:"></a>UKMT复盘:</h2><ul><li>刷题3周，刷了5张卷子</li><li>一起讨论题目</li><li><em><strong>考试中放掉一题未选，获得获得超级金奖</strong></em></li><li>![](C:\Users\Administrator\Desktop\UKMT (2).png)</li></ul></li><li><h2 id="BPHO复盘："><a href="#BPHO复盘：" class="headerlink" title="BPHO复盘："></a>BPHO复盘：</h2></li><li><p>有想选择有关物理专业的想法（可控核聚变）</p><ul><li>物理社的学长们给我们高一进行了培训</li><li>准备：只是看了看卷子，高一只是熟悉一下考试，为以后拿大奖做准备</li><li>结果：铜奖2</li></ul></li><li><p><img                       lazyload                     src="/images/loading.svg"                     data-src="C:\Users\Administrator\Desktop\BPho获奖证书.jpg"                                     ></p></li><li><h2 id="AMC10-amp-12复盘："><a href="#AMC10-amp-12复盘：" class="headerlink" title="AMC10&amp;12复盘："></a>AMC10&amp;12复盘：</h2><ul><li>由于IG英语补习错过了许多课</li><li> 注意时间安排，下次努力</li></ul></li><li><h2 id="Waterloo-Euclid"><a href="#Waterloo-Euclid" class="headerlink" title="Waterloo Euclid:"></a>Waterloo Euclid:</h2><ul><li>由于Mock Exam，准备并不充分</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="竞赛复盘-截止至4-14"><a href="#竞赛复盘-截止至4-14" class="headerlink" title="竞赛复盘(截止至4.14)"></a>竞赛复盘(截止至4.14)</h1><ul><li><h2 id="UKMT复盘"><a href="#UKMT复盘" class="headerlink" title="UKMT复盘:"></a>UKMT复盘:</h2><ul><li><p>刷题3周，刷了5张卷子（2015，2016，2017，2018，2019）</p></li><li><p>和同学一起讨论题目（最后一排）</p></li><li><p><em><strong>考试中放掉一题未选，获得获得超级金奖（116）</strong></em></p><p>![](C:\Users\Administrator\Desktop\UKMT (3).png)</p></li></ul></li><li><h2 id="BPHO复盘："><a href="#BPHO复盘：" class="headerlink" title="BPHO复盘："></a>BPHO复盘：</h2></li><li><p>有想选择有关物理专业的想法（可控核聚变）</p><ul><li>物理社的学长们给我们高一进行了培训（主要为数学知识）</li><li>准备：只是看了看卷子，高一只是熟悉一下考试，为以后拿大奖做准备</li><li>结果：铜奖2</li></ul></li><li><p><img                       lazyload                     src="/images/loading.svg"                     data-src="C:\Users\Administrator\Desktop\BPho获奖证书.jpg"                                     ></p></li><li><h2 id="AMC10-amp-12复盘："><a href="#AMC10-amp-12复盘：" class="headerlink" title="AMC10&amp;12复盘："></a>AMC10&amp;12复盘：</h2><ul><li>由于IG英语口语补习错过了许多课</li><li>详细学习有关面积和概率的题</li><li>注意时间安排，下次努力</li></ul></li><li><h2 id="Waterloo-Euclid"><a href="#Waterloo-Euclid" class="headerlink" title="Waterloo Euclid:"></a>Waterloo Euclid:</h2><ul><li>由于Mock Exam，准备并不充分</li></ul></li></ul>]]></content>
     
     
       
